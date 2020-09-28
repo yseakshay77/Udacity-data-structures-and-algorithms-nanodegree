@@ -1,0 +1,24 @@
+The explanation is based on the completed task and included variables
+
+Task0
+The time complexity of the above task is O(1). As there are only print statements which are printing some values.
+
+Task1
+The assignment operators are mainly used in this task. Therefore, it has very low time complexity graded in terms of  O(1)
+
+Task 2
+In this task,  one loop is used  to find the maximum number of duration call. The best case is the maximum number is found at 1st entry, worst case is found at last entry (nth number ). The average case is entry found at middle n/2.
+
+Task 3
+The time complexity of this task is O(n) where n is the number of unique STD codes.
+
+NOTE: complexity  of this task is O(n log n) because we are using sorting to prin output in lexicographic order.
+
+Task 4
+The time complexity of the task is O(m+n+l)
+Where m is the length of icoming_call 
+n is the length of std_codes
+l is the length of incoming_std_calls
+
+NOTE: 
+	Complexity  of this task is O(n) where n is length of 	Calling Numbers.

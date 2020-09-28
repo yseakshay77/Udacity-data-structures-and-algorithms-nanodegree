@@ -1,0 +1,28 @@
+Assignment 4
+
+In this project, I am building a route-planning algorithm like the one used in Google Maps to calculate the shortest path between two points on a map.
+
+For this I am using A* algorithm.A* algorithm is one the bestand popular technique used in path finding and Graph Traversals.
+
+Time Complexity :- 
+				the worse case time complexity is O(E), where E is the number of edges in the graph.
+
+Space Complexity:- 
+				space in worst case is O(V), where V is the total number of vertices.
+
+
+
+
+Pickle files:- 
+			Python pickle module is used for serializing and de-serializing a Python object structure. Any object in Python can be pickled so that it can be saved on disk. What pickle does is that it “serializes” the object first before writing it to file. Pickling is a way to convert a python object (list, dict, etc.)
+
+
+Test.py:- 
+		This code is used to check that our A* algorithm is properly working or not.
+
+
+
+For this project I am using:
+
+	networkx - version 1.11
+	plotly   - version 2.3.0 
