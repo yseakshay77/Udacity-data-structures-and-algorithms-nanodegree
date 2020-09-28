@@ -1,0 +1,63 @@
+Problem 1:-
+
+Using the binary search algorithm I am trying to find the square root of the number in this problem. 
+If the square is between the `mid` and `(mid + 1)`, then mid is returned as the floored square root.
+
+`Time Complexity of this problem is O(log(n)) and Space Complexity of this problem is O(1)`
+
+****************************************************************
+Problem 2:-
+
+This problem requires to find given number in an array. So th Binary search algorithm fits for this problem to find 
+given number from the array as the array is sorted but for this problem, I need to search for number in rotated array. 
+We can search an element in one pass of Binary Search.
+
+Time Complexity :- O(nlogn)  // Heap sorting used for sorting
+Space Complexity :- O(1)
+
+****************************************************************
+Problem 3:-
+
+The idea is to sort the array in increasing order and build two numbers by alternating picking digits from the array. So first number is formed by digits present in odd positions in the array and second number is formed by digits from even positions in the array. Finally, we return the sum of first and second number.
+
+Time Complexity:- 
+				If we provide 0-9 values in descending order then it will take O(n) time.
+Space Complexity :- O(1)
+
+****************************************************************
+Problem 4:-
+
+For this problem I am using Dutch National Flag Algorithm OR 3-way Partitioning Algorithm. I am using three indices – low, mid and high.by using this indices array is sorted.
+
+Time Complexity :- 
+				Time complexity of this problem is O(n).
+Space Complexity :- O(n)
+
+****************************************************************
+Problem 5 :-
+
+Trie data structure is used to store data. 1st I am storing/ inserting values from list.I am sending suffix value to find() function.
+
+Time Complexity :- 
+    time complexity and space complexity of TrieNode's  for suffixes of a node is O(M*N).
+
+Space Complexity:- O(M*N)
+
+****************************************************************
+Problem 6:-
+
+For this prblem I am using to list, and by using for loop checking for MAX and MIN value, and updating into new list.
+
+Time Complexity :-
+				Time Complexity of this problem is O(n).
+Space Complexity :- O(1)
+
+****************************************************************
+Problem 7:-
+
+Trie is Data Structure used to reTrieval data. Each value in trie has a key with common prefix.
+
+Time Complexity :- 
+				RouteTrieNode :- time complexity and space complexity both are O(M*N)
+
+RouteTrie :- O(n)
