@@ -5,13 +5,16 @@ Structure
 Welcome
 Get an overview of your program. Meet your instructors, and refresh your Python skills. Learn the framework to deconstruct any open-ended problem and then understand the concepts of time and space complexity.
 
-Data Structures
+Data Structures:
+
 Learn different data structures that can be used to store data. Implement different methods used to manipulate these data structures and examine the efficiency. Understand the advantages and applications of different data structures. Learn how to approach open ended problems (either in interview or real-world) and select appropriate data structures based on requirements.
 
-Basic Algorithms
+Basic Algorithms:
+
 Learn and implement basic algorithms such as searching and sorting on different data structures and examine the efficiency of these algorithms. Use recursion to implement these algorithms and then learn how some of these algorithms can be implemented without recursion. Practice selecting and modifying these algorithms for a variety of interview problems.
 
-Advanced Algorithms
+Advanced Algorithms:
+
 Build on your algorithm skills by learning more advanced algorithms such as brute-force greedy algorithms, graph algorithms, and dynamic programming which optimizes recursion by storing results to sub problems.
 
 Disclaimer:
